@@ -74,11 +74,11 @@ pip install -r requirements.txt
 * Create airflow user for the UI login
 ```
 airflow users create \
-    --username rakshitha\
-    --firstname rakshitha\
-    --lastname bs\
+    --username roshini\
+    --firstname roshini\
+    --lastname priya\
     --role Admin \
-    --email rakshitha@gmail.com\
+    --email priya.roshgm@gmail.com\
     --password 123
 ```
 
